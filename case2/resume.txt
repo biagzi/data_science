@@ -1,5 +1,8 @@
 People Analytics Problem:
 
+Objective: identify ways of improving performance of the company areas and of the company as a hole. 
+
+
 I want to have information for:
 1. Hiring
 2. Internal transferences
