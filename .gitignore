@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 Name_*
 DataRisk/*
+case2/raw_data/*
+

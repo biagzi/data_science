@@ -1,0 +1,23 @@
+People Analytics Problem:
+
+I want to have information for:
+1. Hiring
+2. Internal transferences
+
+I will construct information about that by using:
+1. Psicometric tests results
+2. The person's actual area
+3. The person's performance in its area
+
+
+By having information about what "kind" of people (based on psicometric + performance) 
+is good for each area. I can sugest:
+
+1- what type of profile the company should give preference for each area when Hiring
+2- I can look if there are profiles with bad performance in "wrong" areas for them
+and suggest that internal transference could improve the performance and satisfaction
+for both of them.
+
+
+
+
