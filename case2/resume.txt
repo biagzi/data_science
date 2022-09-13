@@ -6,6 +6,8 @@ Objective: identify ways of improving performance of the company areas and of th
 I want to have information for:
 1. Hiring
 2. Internal transferences
+3. Treinamento
+
 
 I will construct information about that by using:
 1. Psicometric tests results

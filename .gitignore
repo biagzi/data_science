@@ -130,4 +130,4 @@ dmypy.json
 Name_*
 DataRisk/*
 case2/raw_data/*
-
+case2/processed_data/*
