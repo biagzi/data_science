@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 Name_*
 DataRisk/*
-case2/raw_data/*
-case2/processed_data/*
+case2_people_analytics/raw_data/*
+case2_people_analytics/processed_data/*
